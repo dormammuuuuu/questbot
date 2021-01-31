@@ -1,0 +1,3 @@
+2. Where the computer memory and other vital electronic parts are stored:
+A. Monitor  	  B. CPU
+C. Power Supply   D. Motherboard

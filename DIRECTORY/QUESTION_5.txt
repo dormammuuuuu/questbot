@@ -1,0 +1,3 @@
+5. A device that is used with a computer but is not an essential part of it.
+A. Peripherals   B. CPU
+C. Monitor	 D. CSU

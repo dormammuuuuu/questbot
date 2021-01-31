@@ -1,0 +1,3 @@
+4. A single character of data; made up of 8 bits
+A. string	B. bits
+C. byte 	D. int

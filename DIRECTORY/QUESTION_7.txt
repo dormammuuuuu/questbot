@@ -1,0 +1,3 @@
+7. Device used to create hard copies of your documents.
+A. Monitor	B. HDD
+C. Printer	D. Graphics Card

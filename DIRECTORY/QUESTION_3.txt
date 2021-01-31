@@ -1,0 +1,3 @@
+3. Fixed storage; the main storage device for a computer.
+A. Motherboard	B. HDD
+C. Flashdrive 	D. ODD
